@@ -1,0 +1,10 @@
+.heading{
+width:80%;
+font-size:25px!important;
+}
+body{
+background:linear-gradient(rgb(18, 71, 18) 0%,lightblue 100%);
+font-family: 'Roboto Mono', monospace;
+color:rgb(22, 44, 144);
+font-size:20px;
+}
